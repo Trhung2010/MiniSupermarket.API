@@ -160,7 +160,7 @@
             txtId.BorderStyle = BorderStyle.FixedSingle;
             txtId.Location = new Point(15, 50);
             txtId.Name = "txtId";
-            txtId.ReadOnly = true;
+            txtId.ReadOnly = false;
             txtId.Size = new Size(245, 23);
             txtId.TabIndex = 1;
             // 
